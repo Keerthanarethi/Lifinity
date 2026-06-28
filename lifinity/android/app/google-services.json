@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247702197289",
+    "project_id": "lifinitycom",
+    "storage_bucket": "lifinitycom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247702197289:android:b0b5e0091de573d476b838",
+        "android_client_info": {
+          "package_name": "com.example.lifinity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfdaOkNyhekI8VfWbajd5sC7WR7unOZ4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
